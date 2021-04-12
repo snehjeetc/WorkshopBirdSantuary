@@ -1,0 +1,2 @@
+module WorkShop2 {
+}
